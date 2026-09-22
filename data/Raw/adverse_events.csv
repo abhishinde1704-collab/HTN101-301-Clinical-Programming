@@ -1,0 +1,86 @@
+SUBJECT,AE_SEQ,EVENT_TERM,START_DATE,END_DATE,SEVERITY,SERIOUS,RELATIONSHIP,OUTCOME
+HTN101-001,1,Headache,2026-02-19,2026-02-24,Mild,No,Not Related,Recovering/Resolving
+HTN101-004,1,Back pain,2026-03-12,2026-03-21,Moderate,No,Not Related,Recovering/Resolving
+HTN101-008,1,Headache,2026-03-05,2026-03-14,Mild,No,Possibly Related,Recovered/Resolved
+HTN101-008,2,Upper respiratory tract infection,2026-03-14,2026-03-23,Moderate,No,Probably Related,Recovering/Resolving
+HTN101-013,1,Headache,2026-03-30,2026-04-12,Moderate,No,Probably Related,Recovering/Resolving
+HTN101-014,1,Upper respiratory tract infection,2026-03-04,2026-03-17,Mild,No,Possibly Related,Recovering/Resolving
+HTN101-017,1,Nausea,2026-03-10,2026-03-24,Mild,No,Not Related,Recovering/Resolving
+HTN101-018,1,Peripheral edema,2026-02-19,2026-03-01,Moderate,No,Not Related,Recovering/Resolving
+HTN101-020,1,Dizziness,2026-02-04,2026-02-17,Moderate,No,Not Related,Not Recovered
+HTN101-020,2,Headache,2026-03-21,2026-04-01,Mild,No,Not Related,Recovered/Resolved
+HTN101-020,3,Dizziness,2026-02-17,2026-02-22,Mild,No,Probably Related,Recovering/Resolving
+HTN101-022,1,Dizziness,2026-02-26,2026-02-28,Mild,No,Possibly Related,Recovered/Resolved
+HTN101-022,2,Nausea,2026-01-31,2026-02-06,Moderate,No,Possibly Related,Recovering/Resolving
+HTN101-024,1,Headache,2026-03-19,2026-03-24,Mild,No,Not Related,Recovering/Resolving
+HTN101-025,1,Upper respiratory tract infection,2026-04-14,2026-04-28,Mild,No,Probably Related,Recovering/Resolving
+HTN101-027,1,Dizziness,2026-02-15,2026-03-01,Severe,No,Not Related,Recovering/Resolving
+HTN101-030,1,Fatigue,2026-02-04,2026-02-17,Mild,No,Possibly Related,Not Recovered
+HTN101-032,1,Nausea,2026-03-14,2026-03-16,Mild,No,Possibly Related,Not Recovered
+HTN101-032,2,Fatigue,2026-01-27,2026-02-06,Severe,Yes,Possibly Related,Not Recovered
+HTN101-034,1,Upper respiratory tract infection,2026-03-08,2026-03-16,Moderate,No,Possibly Related,Not Recovered
+HTN101-036,1,Headache,2026-02-21,2026-02-22,Mild,No,Possibly Related,Recovered/Resolved
+HTN101-038,1,Upper respiratory tract infection,2026-03-19,2026-03-25,Moderate,No,Not Related,Recovered/Resolved
+HTN101-038,2,Fatigue,2026-01-24,2026-02-02,Severe,No,Not Related,Recovered/Resolved
+HTN101-039,1,Upper respiratory tract infection,2026-02-25,NA,Mild,No,Not Related,Recovering/Resolving
+HTN101-040,1,Peripheral edema,2026-02-10,2026-02-21,Mild,No,Possibly Related,Recovering/Resolving
+HTN101-040,2,Back pain,2026-02-02,2026-02-09,Mild,No,Not Related,Recovering/Resolving
+HTN101-040,3,Back pain,2026-01-27,2026-01-31,Mild,No,Probably Related,Recovered/Resolved
+HTN101-041,1,Headache,2026-03-02,2026-03-07,Mild,No,Not Related,Not Recovered
+HTN101-042,1,Back pain,2026-02-24,2026-03-02,Mild,Yes,Possibly Related,Recovered/Resolved
+HTN101-044,1,Headache,2026-03-10,2026-03-15,Mild,No,Probably Related,Recovered/Resolved
+HTN101-044,2,Dizziness,2026-02-17,2026-02-20,Moderate,No,Not Related,Recovering/Resolving
+HTN101-045,1,Peripheral edema,2026-03-20,2026-03-27,Mild,Yes,Not Related,Recovering/Resolving
+HTN101-046,1,Peripheral edema,2026-04-04,2026-04-07,Mild,No,Possibly Related,Not Recovered
+HTN101-048,1,Upper respiratory tract infection,2026-01-18,2026-01-30,Mild,No,Probably Related,Not Recovered
+HTN101-051,1,Back pain,2026-03-19,NA,Mild,Yes,Not Related,Recovering/Resolving
+HTN101-052,1,Peripheral edema,2026-02-28,2026-03-01,Mild,No,Not Related,Not Recovered
+HTN101-052,2,Peripheral edema,2026-02-20,2026-03-04,Mild,No,Not Related,Not Recovered
+HTN101-053,1,Dizziness,2026-01-18,NA,Moderate,No,Possibly Related,Recovering/Resolving
+HTN101-053,2,Dizziness,2026-03-01,NA,Mild,No,Possibly Related,Recovered/Resolved
+HTN101-054,1,Nausea,2026-03-03,2026-03-09,Severe,No,Possibly Related,Recovered/Resolved
+HTN101-055,1,Upper respiratory tract infection,2026-03-07,2026-03-12,Mild,Yes,Not Related,Recovered/Resolved
+HTN101-056,1,Dizziness,2026-03-03,2026-03-11,Mild,No,Not Related,Recovered/Resolved
+HTN101-056,2,Peripheral edema,2026-01-22,2026-01-31,Mild,Yes,Not Related,Recovering/Resolving
+HTN101-056,3,Nausea,2026-02-08,2026-02-14,Mild,No,Possibly Related,Recovering/Resolving
+HTN101-057,1,Dizziness,2026-01-31,2026-02-08,Severe,No,Possibly Related,Recovering/Resolving
+HTN101-058,1,Nausea,2026-02-28,2026-03-09,Mild,No,Probably Related,Recovering/Resolving
+HTN101-059,1,Fatigue,2026-03-08,2026-03-17,Mild,No,Probably Related,Not Recovered
+HTN101-059,2,Nausea,2026-02-26,2026-03-04,Mild,No,Not Related,Recovered/Resolved
+HTN101-061,1,Dizziness,2026-03-17,2026-03-21,Moderate,No,Possibly Related,Not Recovered
+HTN101-061,2,Back pain,2026-02-04,2026-02-12,Mild,No,Not Related,Recovered/Resolved
+HTN101-062,1,Headache,2026-03-10,2026-03-21,Mild,No,Not Related,Recovering/Resolving
+HTN101-065,1,Headache,2026-02-18,2026-02-20,Mild,No,Possibly Related,Recovered/Resolved
+HTN101-065,2,Dizziness,2026-03-04,2026-03-15,Moderate,No,Possibly Related,Recovered/Resolved
+HTN101-066,1,Headache,2026-02-04,2026-02-08,Moderate,No,Not Related,Not Recovered
+HTN101-068,1,Fatigue,2026-02-03,2026-02-15,Moderate,No,Possibly Related,Not Recovered
+HTN101-069,1,Peripheral edema,2026-02-08,2026-02-11,Mild,No,Not Related,Recovering/Resolving
+HTN101-072,1,Upper respiratory tract infection,2026-02-23,2026-03-09,Mild,No,Not Related,Recovered/Resolved
+HTN101-073,1,Upper respiratory tract infection,2026-01-14,2026-01-16,Mild,No,Not Related,Recovering/Resolving
+HTN101-073,2,Peripheral edema,2026-03-05,2026-03-16,Moderate,Yes,Not Related,Recovered/Resolved
+HTN101-077,1,Nausea,2026-03-01,2026-03-14,Moderate,No,Possibly Related,Not Recovered
+HTN101-078,1,Upper respiratory tract infection,2026-02-12,2026-02-26,Mild,No,Not Related,Recovered/Resolved
+HTN101-079,1,Dizziness,2026-03-31,2026-04-11,Moderate,No,Possibly Related,Not Recovered
+HTN101-079,2,Nausea,2026-03-10,2026-03-23,Moderate,No,Not Related,Recovering/Resolving
+HTN101-081,1,Headache,2026-01-20,2026-02-03,Moderate,Yes,Not Related,Not Recovered
+HTN101-081,2,Nausea,2026-03-03,2026-03-09,Moderate,No,Not Related,Recovering/Resolving
+HTN101-084,1,Fatigue,2026-01-07,2026-01-10,Mild,No,Not Related,Not Recovered
+HTN101-086,1,Fatigue,2026-01-28,2026-02-02,Mild,No,Possibly Related,Not Recovered
+HTN101-087,1,Dizziness,2026-04-04,2026-04-13,Mild,No,Not Related,Not Recovered
+HTN101-087,2,Back pain,2026-03-14,2026-03-20,Mild,No,Not Related,Recovering/Resolving
+HTN101-088,1,Dizziness,2026-03-12,2026-03-15,Moderate,No,Possibly Related,Recovered/Resolved
+HTN101-088,2,Upper respiratory tract infection,2026-02-10,2026-02-22,Moderate,No,Possibly Related,Recovered/Resolved
+HTN101-089,1,Nausea,2026-03-14,2026-03-18,Mild,No,Possibly Related,Recovering/Resolving
+HTN101-089,2,Peripheral edema,2026-04-12,2026-04-17,Moderate,No,Probably Related,Recovering/Resolving
+HTN101-091,1,Upper respiratory tract infection,2026-01-12,2026-01-23,Moderate,No,Not Related,Not Recovered
+HTN101-092,1,Upper respiratory tract infection,2026-03-30,2026-04-02,Moderate,No,Possibly Related,Recovering/Resolving
+HTN101-093,1,Fatigue,2026-01-15,2026-01-17,Moderate,No,Possibly Related,Recovered/Resolved
+HTN101-093,2,Back pain,2026-03-05,2026-03-15,Moderate,No,Not Related,Recovering/Resolving
+HTN101-093,3,Peripheral edema,2026-03-04,2026-03-13,Mild,No,Not Related,Not Recovered
+HTN101-096,1,Back pain,2026-03-09,2026-03-14,Moderate,No,Probably Related,Not Recovered
+HTN101-097,1,Headache,2026-01-29,2026-02-07,Mild,No,Possibly Related,Recovered/Resolved
+HTN101-097,2,Headache,2026-02-16,2026-02-23,Moderate,No,Possibly Related,Recovered/Resolved
+HTN101-097,3,Upper respiratory tract infection,2026-01-25,2026-01-29,Moderate,No,Possibly Related,Not Recovered
+HTN101-098,1,Nausea,2026-02-06,2026-02-14,Mild,No,Not Related,Not Recovered
+HTN101-098,2,Nausea,2026-03-05,2026-03-13,Mild,No,Possibly Related,Recovered/Resolved
+HTN101-100,1,Upper respiratory tract infection,2026-03-21,2026-04-01,Mild,No,Probably Related,Recovered/Resolved

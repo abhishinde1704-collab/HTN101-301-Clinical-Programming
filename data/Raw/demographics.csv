@@ -1,0 +1,101 @@
+SUBJECT,AGE,GENDER,RACE,ETHNICITY,RAND_GROUP,RAND_DATE
+HTN101-001,59,Male,White,Not Hispanic or Latino,HTN-101,2026-01-22
+HTN101-002,75,Male,Asian,Hispanic or Latino,HTN-101,2026-01-20
+HTN101-003,37,Male,Black or African American,Not Hispanic or Latino,HTN-101,2026-01-07
+HTN101-004,73,Female,White,Not Hispanic or Latino,Placebo,2026-01-31
+HTN101-005,75,Male,Asian,Not Hispanic or Latino,HTN-101,2026-01-28
+HTN101-006,43,Male,White,Not Hispanic or Latino,HTN-101,2026-01-06
+HTN101-007,34,Female,Asian,Not Hispanic or Latino,HTN-101,2026-01-16
+HTN101-008,67,Female,White,Not Hispanic or Latino,HTN-101,2026-01-31
+HTN101-009,62,Female,White,Not Hispanic or Latino,Placebo,2026-01-05
+HTN101-010,69,Male,White,Not Hispanic or Latino,HTN-101,2026-01-05
+HTN101-011,75,Male,Black or African American,Not Hispanic or Latino,HTN-101,2026-01-19
+HTN101-012,56,Male,Asian,Not Hispanic or Latino,Placebo,2026-01-26
+HTN101-013,64,Male,White,Not Hispanic or Latino,HTN-101,2026-01-30
+HTN101-014,51,Male,Asian,Not Hispanic or Latino,Placebo,2026-01-15
+HTN101-015,34,Male,White,Not Hispanic or Latino,HTN-101,2026-01-22
+HTN101-016,69,Female,White,Not Hispanic or Latino,HTN-101,2026-01-30
+HTN101-017,60,Female,White,Not Hispanic or Latino,Placebo,2026-01-07
+HTN101-018,45,Female,Other,Not Hispanic or Latino,Placebo,2026-02-03
+HTN101-019,38,Male,White,Not Hispanic or Latino,Placebo,2026-02-03
+HTN101-020,44,Female,White,Not Hispanic or Latino,HTN-101,2026-01-26
+HTN101-021,50,Female,White,Hispanic or Latino,HTN-101,2026-01-15
+HTN101-022,45,Female,Black or African American,Not Hispanic or Latino,HTN-101,2026-01-05
+HTN101-023,60,Female,White,Not Hispanic or Latino,HTN-101,2026-01-27
+HTN101-024,69,Female,White,Hispanic or Latino,Placebo,2026-01-19
+HTN101-025,50,Female,Asian,Not Hispanic or Latino,HTN-101,2026-02-04
+HTN101-026,48,Male,White,Not Hispanic or Latino,Placebo,2026-02-04
+HTN101-027,65,Male,Other,Not Hispanic or Latino,HTN-101,2026-01-18
+HTN101-028,63,Male,White,Not Hispanic or Latino,HTN-101,2026-02-02
+HTN101-029,49,Female,White,Not Hispanic or Latino,Placebo,2026-01-21
+HTN101-030,30,Male,Black or African American,Hispanic or Latino,HTN-101,2026-01-06
+HTN101-031,62,Female,Black or African American,Not Hispanic or Latino,Placebo,2026-01-23
+HTN101-032,72,Male,White,Not Hispanic or Latino,Placebo,2026-01-21
+HTN101-033,65,Female,Asian,Not Hispanic or Latino,Placebo,2026-01-23
+HTN101-034,58,Male,Asian,Not Hispanic or Latino,Placebo,2026-01-19
+HTN101-035,55,Male,Asian,Not Hispanic or Latino,Placebo,2026-01-10
+HTN101-036,54,Male,Other,Not Hispanic or Latino,Placebo,2026-01-09
+HTN101-037,55,Female,Asian,Not Hispanic or Latino,HTN-101,2026-01-26
+HTN101-038,62,Female,Black or African American,Not Hispanic or Latino,Placebo,2026-01-08
+HTN101-039,62,Female,Black or African American,Not Hispanic or Latino,Placebo,2026-01-17
+HTN101-040,37,Male,White,Not Hispanic or Latino,Placebo,2026-01-26
+HTN101-041,55,Male,White,Not Hispanic or Latino,HTN-101,2026-01-05
+HTN101-042,35,Male,White,Not Hispanic or Latino,Placebo,2026-01-30
+HTN101-043,31,Female,White,Not Hispanic or Latino,HTN-101,2026-01-19
+HTN101-044,62,Male,Black or African American,Not Hispanic or Latino,Placebo,2026-01-14
+HTN101-045,63,Female,Other,NA,HTN-101,2026-01-31
+HTN101-046,50,Female,Other,Hispanic or Latino,Placebo,2026-01-30
+HTN101-047,42,Male,White,Not Hispanic or Latino,Placebo,2026-01-26
+HTN101-048,43,Male,White,Not Hispanic or Latino,Placebo,2026-01-17
+HTN101-049,71,Male,Black or African American,Hispanic or Latino,Placebo,2026-01-13
+HTN101-050,63,Female,Black or African American,Not Hispanic or Latino,Placebo,2026-01-06
+HTN101-051,67,Female,Black or African American,Not Hispanic or Latino,Placebo,2026-01-19
+HTN101-052,47,Female,White,Hispanic or Latino,HTN-101,2026-02-03
+HTN101-053,63,Male,Asian,Not Hispanic or Latino,Placebo,2026-01-05
+HTN101-054,34,Female,Black or African American,Not Hispanic or Latino,HTN-101,2026-01-19
+HTN101-055,68,Male,White,Not Hispanic or Latino,HTN-101,2026-01-13
+HTN101-056,64,Male,White,Not Hispanic or Latino,Placebo,2026-01-09
+HTN101-057,31,Female,White,Not Hispanic or Latino,Placebo,2026-01-30
+HTN101-058,31,Female,White,Not Hispanic or Latino,HTN-101,2026-01-20
+HTN101-059,32,Male,White,Not Hispanic or Latino,Placebo,2026-01-31
+HTN101-060,70,Female,Black or African American,NA,Placebo,2026-01-18
+HTN101-061,55,Female,White,Not Hispanic or Latino,HTN-101,2026-01-20
+HTN101-062,61,Female,Black or African American,Not Hispanic or Latino,Placebo,2026-01-28
+HTN101-063,39,Female,Other,Not Hispanic or Latino,HTN-101,2026-01-13
+HTN101-064,50,Male,Black or African American,Not Hispanic or Latino,Placebo,2026-02-01
+HTN101-065,47,Male,White,Not Hispanic or Latino,HTN-101,2026-01-08
+HTN101-066,52,Female,Other,Not Hispanic or Latino,HTN-101,2026-01-21
+HTN101-067,47,Male,White,Not Hispanic or Latino,HTN-101,2026-01-18
+HTN101-068,58,Female,Asian,NA,HTN-101,2026-02-02
+HTN101-069,58,Female,Other,Not Hispanic or Latino,Placebo,2026-01-10
+HTN101-070,72,Female,Asian,Hispanic or Latino,Placebo,2026-01-06
+HTN101-071,44,Male,White,Not Hispanic or Latino,Placebo,2026-01-29
+HTN101-072,46,Female,White,Not Hispanic or Latino,HTN-101,2026-02-04
+HTN101-073,39,Female,Black or African American,Hispanic or Latino,HTN-101,2026-01-09
+HTN101-074,75,Female,White,Hispanic or Latino,Placebo,2026-01-27
+HTN101-075,39,Male,White,Not Hispanic or Latino,HTN-101,2026-02-04
+HTN101-076,47,Male,White,Not Hispanic or Latino,HTN-101,2026-01-05
+HTN101-077,59,Male,White,Not Hispanic or Latino,Placebo,2026-01-30
+HTN101-078,64,Male,Other,Not Hispanic or Latino,HTN-101,2026-02-01
+HTN101-079,58,Female,White,Not Hispanic or Latino,HTN-101,2026-01-30
+HTN101-080,51,Male,Black or African American,Not Hispanic or Latino,Placebo,2026-01-13
+HTN101-081,47,Male,Asian,Not Hispanic or Latino,HTN-101,2026-01-08
+HTN101-082,32,Male,Other,Not Hispanic or Latino,HTN-101,2026-01-08
+HTN101-083,33,Female,White,Hispanic or Latino,HTN-101,2026-01-12
+HTN101-084,46,Female,White,Not Hispanic or Latino,HTN-101,2026-01-06
+HTN101-085,31,Female,Black or African American,Not Hispanic or Latino,Placebo,2026-01-24
+HTN101-086,69,Male,Asian,Hispanic or Latino,Placebo,2026-01-07
+HTN101-087,42,Male,Asian,Not Hispanic or Latino,Placebo,2026-02-03
+HTN101-088,52,Female,White,Not Hispanic or Latino,HTN-101,2026-01-06
+HTN101-089,60,Male,Black or African American,Not Hispanic or Latino,HTN-101,2026-02-04
+HTN101-090,54,Female,White,Not Hispanic or Latino,Placebo,2026-01-26
+HTN101-091,51,Female,Black or African American,Not Hispanic or Latino,HTN-101,2026-01-09
+HTN101-092,56,Female,Black or African American,Not Hispanic or Latino,Placebo,2026-01-24
+HTN101-093,33,Male,White,Not Hispanic or Latino,HTN-101,2026-01-11
+HTN101-094,30,Female,White,Not Hispanic or Latino,Placebo,2026-01-30
+HTN101-095,31,Male,White,Hispanic or Latino,HTN-101,2026-02-03
+HTN101-096,45,Female,Asian,Not Hispanic or Latino,HTN-101,2026-01-28
+HTN101-097,73,Male,White,Not Hispanic or Latino,Placebo,2026-01-13
+HTN101-098,68,Male,Other,Not Hispanic or Latino,Placebo,2026-01-08
+HTN101-099,73,Male,Asian,Not Hispanic or Latino,Placebo,2026-01-24
+HTN101-100,70,Male,White,Not Hispanic or Latino,Placebo,2026-02-04
